@@ -1,0 +1,46 @@
+ply
+format ascii 1.0
+comment PCL generated
+element vertex 15
+property float x
+property float y
+property float z
+element camera 1
+property float view_px
+property float view_py
+property float view_pz
+property float x_axisx
+property float x_axisy
+property float x_axisz
+property float y_axisx
+property float y_axisy
+property float y_axisz
+property float z_axisx
+property float z_axisy
+property float z_axisz
+property float focal
+property float scalex
+property float scaley
+property float centerx
+property float centery
+property int viewportx
+property int viewporty
+property float k1
+property float k2
+end_header
+20.28413 1456.4373 308.1377
+31.824509 1246.7854 333.13965
+-110.37257 1242.1724 367.25684
+-171.80717 1011.2029 427.79028
+-181.79515 740.63159 439.88623
+174.02159 1251.3982 299.02246
+239.9632 965.43579 222.98755
+202.87175 948.70117 -75.140137
+41.971725 1040.2701 347.5083
+-40.660439 830.745 384.13745
+11.024479 426.17017 439.89209
+35.71566 93.669922 637.26831
+144.89832 836.7644 339.6167
+133.21225 471.26294 144.5022
+139.83124 142.18848 4.4318848
+0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 15 1 0 0
